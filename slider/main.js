@@ -106,5 +106,3 @@ btnPerv.addEventListener("click", () => {
 sliderPos = 800;
 setDot(1);
 slider.style.transform = `translate(-800px)`;
-
-// setSlide(1);

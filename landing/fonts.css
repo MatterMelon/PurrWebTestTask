@@ -1,0 +1,50 @@
+@font-face {
+  font-family: Roboto;
+  src: url(./scr/fonts/Roboto-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(./scr/fonts/Montserrat-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Noto Sans;
+  src: url(./scr/fonts/NotoSans-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Noto Sans;
+  src: url(./scr/fonts/NotoSans-Medium.ttf);
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Noto Sans;
+  src: url(./scr/fonts/NotoSans-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Metropolis-SemiBold;
+  src: url(./scr/fonts/Metropolis-SemiBold.otf);
+  font-weight: 600;
+}
+@font-face {
+  font-family: Metropolis-Medium;
+  src: url(./scr/fonts/Metropolis-Medium.otf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: Metropolis-Light;
+  src: url(./scr/fonts/Metropolis-Light.otf);
+  font-weight: 300;
+}
